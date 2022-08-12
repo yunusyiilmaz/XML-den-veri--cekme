@@ -1,0 +1,12 @@
+<arabalar>
+  <araba>
+    <marka>renault</marka>
+    <model>symbol</model>
+    <renk>gri</renk>
+  </araba>
+  <araba>
+    <marka>hyndai</marka>
+    <model>Getz</model>
+    <renk>mavi</renk>
+  </araba>
+</arabalar>

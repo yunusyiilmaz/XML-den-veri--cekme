@@ -1,0 +1,15 @@
+D:\Kişisel\Yunus\C# ÖRNEKLERİ\ÖRNEK UYGULAMA\ÖRNEK UYGULAMA\bin\Debug\ÖRNEK UYGULAMA.exe.config
+D:\Kişisel\Yunus\C# ÖRNEKLERİ\ÖRNEK UYGULAMA\ÖRNEK UYGULAMA\bin\Debug\ÖRNEK UYGULAMA.exe
+D:\Kişisel\Yunus\C# ÖRNEKLERİ\ÖRNEK UYGULAMA\ÖRNEK UYGULAMA\bin\Debug\ÖRNEK UYGULAMA.pdb
+D:\Kişisel\Yunus\C# ÖRNEKLERİ\ÖRNEK UYGULAMA\ÖRNEK UYGULAMA\obj\Debug\ÖRNEK UYGULAMA.csproj.AssemblyReference.cache
+D:\Kişisel\Yunus\C# ÖRNEKLERİ\ÖRNEK UYGULAMA\ÖRNEK UYGULAMA\obj\Debug\ÖRNEK UYGULAMA.csproj.SuggestedBindingRedirects.cache
+D:\Kişisel\Yunus\C# ÖRNEKLERİ\ÖRNEK UYGULAMA\ÖRNEK UYGULAMA\obj\Debug\ÖRNEK UYGULAMA.csproj.CoreCompileInputs.cache
+D:\Kişisel\Yunus\C# ÖRNEKLERİ\ÖRNEK UYGULAMA\ÖRNEK UYGULAMA\obj\Debug\ÖRNEK UYGULAMA.exe
+D:\Kişisel\Yunus\C# ÖRNEKLERİ\ÖRNEK UYGULAMA\ÖRNEK UYGULAMA\obj\Debug\ÖRNEK UYGULAMA.pdb
+D:\Kişisel\Yunus\C# ÖRNEKLERİ\ÖRNEK UYGULAMA ARABA\ÖRNEK UYGULAMA\bin\Debug\ÖRNEK UYGULAMA.exe.config
+D:\Kişisel\Yunus\C# ÖRNEKLERİ\ÖRNEK UYGULAMA ARABA\ÖRNEK UYGULAMA\bin\Debug\ÖRNEK UYGULAMA.exe
+D:\Kişisel\Yunus\C# ÖRNEKLERİ\ÖRNEK UYGULAMA ARABA\ÖRNEK UYGULAMA\bin\Debug\ÖRNEK UYGULAMA.pdb
+D:\Kişisel\Yunus\C# ÖRNEKLERİ\ÖRNEK UYGULAMA ARABA\ÖRNEK UYGULAMA\obj\Debug\ÖRNEK UYGULAMA.csproj.AssemblyReference.cache
+D:\Kişisel\Yunus\C# ÖRNEKLERİ\ÖRNEK UYGULAMA ARABA\ÖRNEK UYGULAMA\obj\Debug\ÖRNEK UYGULAMA.csproj.CoreCompileInputs.cache
+D:\Kişisel\Yunus\C# ÖRNEKLERİ\ÖRNEK UYGULAMA ARABA\ÖRNEK UYGULAMA\obj\Debug\ÖRNEK UYGULAMA.exe
+D:\Kişisel\Yunus\C# ÖRNEKLERİ\ÖRNEK UYGULAMA ARABA\ÖRNEK UYGULAMA\obj\Debug\ÖRNEK UYGULAMA.pdb
